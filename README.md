@@ -25,13 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](design/desktop-design.jpg)
 
 
 ### Links
 
 - Solution URL: [Repo](https://github.com/DarthEND/3-column-preview-card)
-- Live Site URL: [Live](https://your-live-site-url.com)
+- Live Site URL: [Live](https://darthend.github.io/3-column-preview-card/)
 
 ## My process
 
